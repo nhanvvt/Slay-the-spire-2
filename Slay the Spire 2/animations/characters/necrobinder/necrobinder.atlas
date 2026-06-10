@@ -1,0 +1,167 @@
+necrobinder.png
+size:1794,523
+filter:Linear,Linear
+scale:0.359
+back flame neck
+bounds:857,2,44,54
+rotate:90
+belt top
+bounds:1616,24,46,20
+rotate:90
+belts
+bounds:1616,2,46,20
+bottom shoulder
+bounds:1271,2,29,67
+rotate:90
+bottom sleeve
+bounds:633,5,41,165
+rotate:90
+chest
+bounds:1505,15,44,48
+rotate:90
+death/l shoulder
+bounds:1271,33,73,29
+death/pink sleeve
+bounds:1514,61,71,28
+offsets:0,1,72,29
+death/r shoulder
+bounds:1760,248,67,25
+rotate:90
+death/ribcage
+bounds:800,2,55,44
+offsets:0,0,56,45
+death/ribcage shadow
+bounds:1268,64,88,25
+offsets:1,0,89,25
+death/skirt
+bounds:925,37,203,74
+death/skull
+bounds:1130,2,49,46
+death/skull shadow
+bounds:1209,15,60,42
+eye_flame_l
+bounds:1480,4,9,43
+rotate:90
+eye_flame_r
+bounds:1638,31,6,39
+eye_glow_l
+bounds:1181,2,26,55
+eye_glow_r
+bounds:1760,195,23,51
+flame_extra
+bounds:1083,4,31,45
+offsets:1,1,33,47
+rotate:90
+glow
+bounds:1646,42,92,116
+offsets:6,10,108,138
+glow_head
+bounds:1389,4,61,65
+offsets:5,7,69,77
+rotate:90
+head
+bounds:1456,15,47,50
+l foot
+bounds:1773,326,15,39
+l hand
+bounds:1584,17,23,30
+offsets:0,1,23,31
+rotate:90
+l hand_back
+bounds:1740,97,13,18
+offsets:1,0,14,18
+l index_back
+bounds:1456,2,22,11
+l lower arm
+bounds:1773,367,18,48
+l lower leg
+bounds:1358,67,22,78
+rotate:90
+l middle finger_back
+bounds:1525,5,24,8
+l pinky_back
+bounds:1715,160,20,6
+l ring finger_back
+bounds:1646,32,25,8
+offsets:1,0,26,8
+l shoulder
+bounds:1130,50,43,61
+l shoulder bottom
+bounds:913,2,33,64
+offsets:1,0,34,64
+rotate:90
+l sleeve bottom
+bounds:1715,168,16,147
+l sleeve top
+bounds:1621,126,23,178
+l upper arm
+bounds:1621,72,23,52
+offsets:0,0,24,52
+l upper leg
+bounds:979,4,31,102
+offsets:1,0,32,102
+rotate:90
+l_chill_hand
+bounds:1740,139,20,31
+open_hand
+bounds:1346,33,29,39
+rotate:90
+r foot
+bounds:1555,15,27,44
+r hand
+bounds:1740,117,13,20
+r index
+bounds:1787,300,5,24
+r lower arm
+bounds:1587,42,47,27
+rotate:90
+r lower leg
+bounds:1438,67,22,74
+rotate:90
+r middle finger
+bounds:1236,2,11,24
+rotate:90
+r pinky
+bounds:1623,306,9,19
+rotate:90
+r ring finger
+bounds:1209,2,11,25
+rotate:90
+r upper arm
+bounds:1340,2,47,29
+r upper leg
+bounds:1175,59,30,91
+offsets:0,0,32,91
+rotate:90
+r_chill_hand
+bounds:1733,172,14,24
+rotate:90
+scythe
+bounds:1187,306,215,434
+rotate:90
+shadow
+bounds:633,48,290,63
+skirt back
+bounds:1623,317,98,148
+rotate:90
+skirt flap
+bounds:1733,188,25,127
+skirt top
+bounds:1623,417,104,169
+rotate:90
+slash
+bounds:2,2,519,629
+offsets:508,0,1027,629
+rotate:90
+slashHoles
+bounds:633,113,552,408
+offsets:438,121,1027,629
+sleeve_l_extended
+bounds:1646,160,67,155
+spine
+bounds:1584,2,13,27
+rotate:90
+sythe_dissolve
+bounds:1187,91,213,432
+offsets:2,0,215,432
+rotate:90

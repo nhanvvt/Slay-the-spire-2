@@ -1,0 +1,62 @@
+GDRE Tools v2.5.0-beta.5
+Windows 10.0.26200, NVIDIA GeForce RTX 5060, vulkan
+Opening file: C:\Program Files (x86)\Steam\steamapps\common\Slay the Spire 2\SlayTheSpire2.pck
+Loaded 3890 imported files
+Detected Engine Version: 4.5.1
+Detected Bytecode Revision: 4.5.0-stable (ebc36a7)
+Verified 15406 files, 106 files skipped (MD5 hash entry was empty)
+Extracted 15406 files, no errors detected!
+Unable to compile C# project; ensure that the project is built in the editor before making any changes.
+Recreating plugin configs...
+Found matching plugin in cache: fmod, version: 6.1.0-4.5.0, download url: https://github.com/utopia-rise/fmod-gdextension/releases/download/6.1.0-4.5.0/addons.zip
+Downloading plugin to populate cache: https://github.com/getsentry/sentry-godot/releases/download/2.0.0-beta.2/sentry-godot-2.0.0-beta.2%2B586e26d.zip
+No plugin download url found for plugin spine, hashes: ff37981d7a15f17bba4be2f36c4ef8f7
+Populating plugin version hashes for sentry version: 2.0.0-beta.2
+Downloading plugin to populate cache: https://github.com/getsentry/sentry-godot/releases/download/2.0.0-beta.2/sentry-godot-demo-project-2.0.0-beta.2%2B586e26d.zip
+Populating plugin version hashes for sentry version: 2.0.0-beta.2
+Downloading plugin to populate cache: https://github.com/getsentry/sentry-godot/releases/download/2.0.0-beta.1/sentry-godot-2.0.0-beta.1%2B8e4def9.zip
+Populating plugin version hashes for sentry version: 2.0.0-beta.1
+Downloading plugin to populate cache: https://github.com/getsentry/sentry-godot/releases/download/2.0.0-beta.1/sentry-godot-demo-project-2.0.0-beta.1%2B8e4def9.zip
+Populating plugin version hashes for sentry version: 2.0.0-beta.1
+Downloading plugin to populate cache: https://github.com/getsentry/sentry-godot/releases/download/2.0.0-beta.0/sentry-godot-2.0.0-beta.0%2Be37edde.zip
+Populating plugin version hashes for sentry version: 2.0.0-beta.0
+Downloading plugin to populate cache: https://github.com/getsentry/sentry-godot/releases/download/2.0.0-beta.0/sentry-godot-demo-project-2.0.0-beta.0%2Be37edde.zip
+Populating plugin version hashes for sentry version: 2.0.0-beta.0
+Downloading plugin to populate cache: https://github.com/getsentry/sentry-godot/releases/download/1.6.0/sentry-godot-1.6.0%2B4e3e3e5.zip
+Populating plugin version hashes for sentry version: 1.6.0
+Downloading plugin to populate cache: https://github.com/getsentry/sentry-godot/releases/download/1.6.0/sentry-godot-demo-project-1.6.0%2B4e3e3e5.zip
+Populating plugin version hashes for sentry version: 1.6.0
+Downloading plugin to populate cache: https://github.com/getsentry/sentry-godot/releases/download/1.5.0/sentry-godot-1.5.0%2B6c4d74e.zip
+Populating plugin version hashes for sentry version: 1.5.0
+Found matching plugin after population: sentry, version: 1.5.0, download url: https://github.com/getsentry/sentry-godot/releases/download/1.5.0/sentry-godot-1.5.0%2B6c4d74e.zip
+
+Exporting scenes...
+*** Exporting 1 scenes took 1.15s
+
+Saved project config.
+ERROR: Parse Error: Parse error. [Resource file res://scenes/debug/back_confirm_example.tscn:21]
+   at: ResourceLoaderCompatText::_parse_node_tag (modules\gdsdecomp\compat\resource_compat_text.cpp:333)
+
+
+********************************EXPORT REPORT********************************
+
+Totals:                                 
+Decompiled scripts:                     3414
+Failed scripts:                         19
+Imported resources for export session:  3890
+Successfully converted:                 3890
+Lossy:                                  1216
+Rewrote metadata:                       3839
+Non-importable conversions:             0
+Not converted:                          0
+Failed conversions:                     0
+-------------
+
+
+
+------------------------------------------------------------------------------------
+
+Use Godot editor version 4.5.1 (Mono) to edit the project.
+
+*******************************************************************************
+

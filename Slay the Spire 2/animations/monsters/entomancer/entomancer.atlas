@@ -1,0 +1,86 @@
+entomancer.png
+size:491,523
+filter:Linear,Linear
+scale:0.399
+arm
+bounds:2,114,220,150
+offsets:0,74,220,224
+arm_lower
+bounds:345,267,75,130
+back arm 1
+bounds:406,108,40,64
+offsets:1,0,41,64
+rotate:90
+back arm 2
+bounds:406,65,41,52
+rotate:90
+big finger 1
+bounds:427,205,55,68
+offsets:1,0,56,68
+big finger 2
+bounds:453,444,77,30
+rotate:90
+big hand
+bounds:224,152,80,119
+offsets:1,0,81,119
+rotate:90
+bottom foot
+bounds:335,82,68,25
+offsets:0,0,69,25
+rotate:90
+bottom leg
+bounds:123,11,97,101
+offsets:4,0,102,103
+bottom leg 2
+bounds:224,79,71,109
+offsets:0,1,71,110
+rotate:90
+bug 2
+bounds:484,268,5,5
+bugs
+bounds:362,86,42,65
+fist_l
+bounds:453,402,40,32
+offsets:8,3,49,36
+rotate:90
+fist_l_back
+bounds:354,28,52,31
+offsets:1,8,56,40
+rotate:90
+hand
+bounds:387,24,39,49
+offsets:0,0,39,50
+rotate:90
+head
+bounds:345,399,106,122
+offsets:0,4,106,126
+hips
+bounds:222,7,87,70
+offsets:4,7,93,77
+neck
+bounds:438,20,38,43
+offsets:0,0,38,44
+neck_wide
+bounds:460,73,33,29
+rotate:90
+shadow
+bounds:277,234,287,66
+offsets:1,0,288,67
+rotate:90
+shoulder_clump
+bounds:311,6,71,41
+rotate:90
+staff
+bounds:2,266,273,255
+offsets:0,1,273,256
+top foot
+bounds:427,150,53,55
+rotate:90
+top leg
+bounds:345,153,80,112
+top leg 2
+bounds:422,275,67,122
+offsets:0,2,81,124
+torso
+bounds:2,2,119,110
+offsets:1,0,121,113

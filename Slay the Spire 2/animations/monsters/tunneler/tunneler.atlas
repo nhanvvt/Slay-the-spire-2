@@ -1,0 +1,76 @@
+tunneler.png
+size:936,157
+filter:Linear,Linear
+scale:0.196
+arm armor 2
+bounds:759,48,83,46
+arm armor 2 copy
+bounds:278,2,65,46
+back
+bounds:323,50,200,105
+back antennae 1 (wavy)
+bounds:397,2,8,64
+rotate:90
+back antennae 2 (wavy)
+bounds:736,8,9,69
+rotate:90
+back antennae 3 (wavy)
+bounds:525,3,6,42
+rotate:90
+back antennae 4 (wavy)
+bounds:872,52,5,42
+bod
+bounds:525,11,144,156
+offsets:0,0,145,156
+rotate:90
+bod armor
+bounds:736,19,27,90
+rotate:90
+bod armor 2
+bounds:879,48,18,48
+rotate:90
+dirt back
+bounds:2,5,204,35
+dirt top
+bounds:2,42,250,57
+dirt_chunk_med
+bounds:879,25,25,21
+dirt_chunk_xlarge
+bounds:345,2,50,46
+eyes
+bounds:844,53,41,26
+rotate:90
+hand l
+bounds:828,14,32,24
+rotate:90
+hand r
+bounds:854,22,28,23
+rotate:90
+head
+bounds:254,53,67,46
+head antennae 1 (wavy)
+bounds:208,4,36,68
+rotate:90
+head antennae 2 (wavy)
+bounds:397,12,36,68
+rotate:90
+l arm 1
+bounds:467,7,56,41
+l arm 2
+bounds:759,96,59,118
+rotate:90
+neck
+bounds:879,68,87,55
+rotate:90
+pincer 1
+bounds:820,2,10,14
+rotate:90
+pincer 2
+bounds:807,2,11,15
+r arm 1
+bounds:683,2,51,44
+r arm 2
+bounds:683,48,74,107
+shadow
+bounds:2,101,319,54
+offsets:2,0,321,54

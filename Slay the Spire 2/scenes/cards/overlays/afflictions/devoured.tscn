@@ -1,0 +1,27 @@
+[gd_scene load_steps=3 format=3 uid="uid://b64fuke3615ax"]
+
+[ext_resource type="Shader" uid="uid://djypgl6l1rsg" path="res://shaders/afflictions/devoured.gdshader" id="1_shader"]
+
+[sub_resource type="ShaderMaterial" id="ShaderMaterial_devoured"]
+shader = ExtResource("1_shader")
+shader_parameter/edge_intensity = 0.8
+shader_parameter/pulse_speed = 0.7
+shader_parameter/void_width = 0.175
+shader_parameter/noise_scale = 5.0
+shader_parameter/void_stretch = 3.0
+shader_parameter/void_color = Color(0.08, 0.0, 0.12, 1.0)
+shader_parameter/void_edge_color = Color(0.25, 0.02, 0.35, 1.0)
+shader_parameter/corner_radius = 0.055
+
+[node name="Devoured" type="Control"]
+layout_mode = 3
+anchors_preset = 0
+
+[node name="VoidOverlay" type="ColorRect" parent="."]
+material = SubResource("ShaderMaterial_devoured")
+layout_mode = 0
+offset_left = -150.0
+offset_top = -211.0
+offset_right = 150.0
+offset_bottom = 211.0
+mouse_filter = 2

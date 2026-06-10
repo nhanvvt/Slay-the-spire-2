@@ -1,0 +1,147 @@
+fogmog.png
+size:221,1032
+filter:Linear,Linear
+scale:0.4655
+back head
+bounds:2,334,231,97
+rotate:90
+blink 1
+bounds:172,171,62,28
+rotate:90
+blink 1 copy
+bounds:84,161,62,28
+rotate:90
+blink 1 copy 2
+bounds:188,803,62,28
+rotate:90
+blink 1 copy 3
+bounds:188,932,62,30
+rotate:90
+bod
+bounds:2,567,151,197
+bottom arm
+bounds:164,516,55,52
+bottom finger 1
+bounds:205,296,14,30
+bottom finger 2
+bounds:202,183,16,29
+bottom finger 3
+bounds:147,543,15,22
+bottom foot
+bounds:164,270,56,39
+rotate:90
+bottom leg
+bounds:182,117,37,52
+cel spore A 1
+bounds:202,171,9,10
+cel spore A 2
+bounds:164,235,33,38
+rotate:90
+cel spore A 3
+bounds:114,171,56,61
+cel spore A 4
+bounds:101,303,74,56
+offsets:0,1,74,57
+rotate:90
+cel spore A 5
+bounds:101,379,90,47
+rotate:90
+cel spore A 6
+bounds:101,471,94,44
+rotate:90
+cel spore B 1
+bounds:176,34,9,10
+cel spore B 2
+bounds:188,996,31,34
+cel spore B 3
+bounds:78,87,52,52
+offsets:1,0,53,52
+cel spore B 4
+bounds:101,234,67,61
+rotate:90
+cel spore B 5
+bounds:155,704,76,64
+rotate:90
+cel spore B 6
+bounds:2,5,79,65
+cel spore C 1
+bounds:214,111,5,4
+cel spore C 2
+bounds:138,766,15,14
+cel spore C 3
+bounds:84,141,19,18
+cel spore C 4
+bounds:199,425,20,18
+cel spore C 5
+bounds:196,34,25,23
+offsets:1,0,26,23
+rotate:90
+cel spore C 6
+bounds:182,89,30,26
+cel spore D 1
+bounds:214,105,4,5
+rotate:90
+cel spore D 2
+bounds:205,279,14,15
+offsets:1,0,15,15
+cel spore D 3
+bounds:202,214,17,19
+offsets:1,0,18,19
+cel spore D 4
+bounds:199,405,18,20
+rotate:90
+cel spore D 5
+bounds:196,61,23,26
+cel spore D 6
+bounds:169,3,26,29
+eyes
+bounds:114,141,61,28
+eyes_dry
+bounds:188,867,63,29
+rotate:90
+eyes_lookleft
+bounds:83,2,61,27
+head top
+bounds:2,766,264,134
+rotate:90
+moth_dry
+bounds:150,396,47,74
+mouth
+bounds:159,328,47,66
+shadow
+bounds:138,782,248,48
+offsets:1,0,249,49
+rotate:90
+spore bits
+bounds:188,782,19,22
+rotate:90
+spore bits 2
+bounds:155,570,71,61
+rotate:90
+spore bits 2 copy
+bounds:2,72,74,73
+spore bits 3
+bounds:2,225,97,107
+offsets:0,0,97,108
+spore cloud 1
+bounds:126,36,48,48
+spore cloud 2
+bounds:155,643,64,59
+offsets:1,0,65,59
+spore cloud 3
+bounds:132,86,53,48
+rotate:90
+top arm
+bounds:2,147,80,76
+top finger 1
+bounds:199,445,20,25
+top finger 2
+bounds:176,46,18,38
+top finger 3
+bounds:146,2,21,32
+top foot
+bounds:83,31,54,41
+rotate:90
+top leg
+bounds:147,472,42,71
+rotate:90

@@ -1,0 +1,139 @@
+ceremonial_beast.png
+size:1937,968
+filter:Linear,Linear
+scale:0.577
+FreezeFrame
+bounds:2,227,671,739
+offsets:14,5,690,758
+L back leg bottom
+bounds:1788,6,104,95
+L back leg bottom glow
+bounds:1243,404,129,121
+offsets:1,0,130,121
+L back leg top
+bounds:1729,806,160,189
+offsets:1,0,161,189
+rotate:90
+L back leg top glow
+bounds:2,6,189,219
+L front leg bottom
+bounds:1584,500,38,139
+rotate:90
+L front leg bottom glow
+bounds:924,234,67,164
+L front leg top
+bounds:675,227,90,171
+L front leg top glow
+bounds:886,30,118,199
+R back leg bottom
+bounds:1788,103,70,113
+rotate:90
+R back leg bottom glow
+bounds:1301,4,98,141
+rotate:90
+R back leg top
+bounds:1374,410,119,141
+rotate:90
+R back leg top glow
+bounds:1444,13,144,158
+offsets:3,5,147,168
+R font leg bottom
+bounds:1695,36,91,137
+R font leg bottom glow
+bounds:1471,538,111,164
+offsets:2,0,113,164
+R front leg top
+bounds:1590,20,103,151
+R front leg top glow
+bounds:1729,672,132,178
+rotate:90
+String 2
+bounds:992,4,24,88
+rotate:90
+String 6
+bounds:1920,916,15,50
+String10
+bounds:1145,9,20,104
+rotate:90
+back bod
+bounds:546,16,338,209
+back bod glow
+bounds:1006,31,367,239
+rotate:90
+back string
+bounds:767,231,167,155
+rotate:90
+blastwave
+bounds:675,400,566,566
+offsets:13,13,591,591
+bod string 1
+bounds:193,7,137,218
+bod string 2
+bounds:1318,531,164,151
+rotate:90
+bottom antler
+bounds:332,10,212,215
+offsets:1,0,214,216
+bottom antler glow
+bounds:1686,175,232,239
+offsets:3,3,239,245
+rotate:90
+eye anim 1
+bounds:631,6,8,16
+rotate:90
+eye anim 2
+bounds:1251,10,15,19
+offsets:0,0,15,20
+eye anim 3
+bounds:1082,7,22,21
+rotate:90
+eye anim 4
+bounds:1105,7,22,19
+offsets:0,1,22,20
+rotate:90
+eye anim 5
+bounds:1126,7,22,17
+offsets:0,2,22,19
+rotate:90
+head
+bounds:1517,414,128,84
+neck
+bounds:1318,697,149,269
+neck glow
+bounds:1247,104,179,298
+neck tuft
+bounds:1729,409,160,261
+shadow
+bounds:1243,527,439,73
+offsets:1,0,440,73
+rotate:90
+string 1
+bounds:1909,622,18,76
+string 3
+bounds:1909,528,17,92
+string 4
+bounds:1920,875,14,39
+string 5
+bounds:1920,822,13,51
+string 7
+bounds:1891,610,16,60
+offsets:0,20,16,80
+string 8
+bounds:886,4,24,104
+rotate:90
+string 9
+bounds:1909,700,19,104
+tail
+bounds:1584,540,143,162
+offsets:0,1,143,163
+tail end
+bounds:1247,31,71,52
+rotate:90
+target bone here +
+bounds:546,2,83,12
+top antler
+bounds:1444,173,235,240
+rotate:90
+top antler glow
+bounds:1469,704,258,262
+offsets:3,3,264,268

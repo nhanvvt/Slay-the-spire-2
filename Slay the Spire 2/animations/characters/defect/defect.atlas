@@ -1,0 +1,159 @@
+defect.png
+size:586,523
+filter:Linear,Linear
+scale:0.166
+binder_bolt
+bounds:267,54,22,56
+blender/blender_blur
+bounds:453,247,87,80
+blender/blender_core
+bounds:2,49,92,201
+blender/blender_edge_1
+bounds:542,263,41,67
+offsets:0,1,41,68
+blender/blender_edge_2
+bounds:539,332,35,118
+offsets:0,0,35,121
+blender/blender_hline
+bounds:485,47,55,26
+rotate:90
+blender/blender_thick_1
+bounds:96,64,42,186
+offsets:17,0,63,192
+blender/blender_thick_2
+bounds:292,303,64,135
+offsets:0,57,64,192
+blender/blender_whisp_1
+bounds:348,449,72,184
+rotate:90
+blender/blender_whisp_2
+bounds:140,86,63,164
+bod
+bounds:473,329,118,64
+rotate:90
+castfist_l
+bounds:190,3,54,50
+castfist_r
+bounds:292,246,63,55
+cowl 1
+bounds:207,260,178,83
+rotate:90
+cowl 2
+bounds:207,193,83,65
+offsets:2,0,85,65
+cowl back
+bounds:2,252,203,186
+offsets:5,0,213,186
+deathspark/deathspark00
+bounds:53,10,37,41
+offsets:7,2,50,50
+rotate:90
+deathspark/deathspark01
+bounds:2,2,45,49
+offsets:2,1,50,50
+rotate:90
+deathspark/deathspark02
+bounds:301,4,44,49
+offsets:4,0,50,50
+eye
+bounds:447,49,36,53
+eye shine
+bounds:140,73,11,36
+rotate:90
+glow1
+bounds:551,107,30,31
+offsets:1,1,32,33
+rotate:90
+glow2
+bounds:551,139,28,33
+offsets:1,2,30,36
+rotate:90
+glow3
+bounds:543,34,27,25
+offsets:1,1,29,27
+glow4
+bounds:470,9,28,36
+offsets:1,2,30,40
+head
+bounds:205,112,83,79
+hip
+bounds:246,2,53,50
+offsets:1,0,54,50
+hip joint bottom
+bounds:531,7,25,25
+hip joint top
+bounds:500,16,29,29
+l foot
+bounds:502,107,47,36
+l hand
+bounds:444,104,61,56
+rotate:90
+l leg bottom
+bounds:292,169,80,75
+l leg middle
+bounds:534,452,50,69
+r leg middle
+bounds:534,452,50,69
+l leg top
+bounds:205,55,60,55
+l lower arm
+bounds:290,114,53,80
+offsets:0,0,53,88
+rotate:90
+l toe left
+bounds:503,145,44,25
+l toe middle
+bounds:549,215,46,32
+rotate:90
+l toe right
+bounds:543,61,44,25
+rotate:90
+l upper arm
+bounds:374,164,67,91
+offsets:0,0,68,92
+neck
+bounds:405,47,50,40
+rotate:90
+orb
+bounds:358,334,113,113
+offsets:1,1,115,115
+orb patch
+bounds:178,66,25,18
+offsets:0,0,25,19
+orb shine
+bounds:358,257,93,75
+orb sparkles
+bounds:503,172,73,44
+rotate:90
+pipe 1
+bounds:347,2,41,60
+rotate:90
+pipe 2
+bounds:440,8,28,37
+r foot
+bounds:549,169,44,30
+rotate:90
+r hand
+bounds:347,45,56,52
+r leg bottom
+bounds:372,99,63,70
+rotate:90
+r leg top
+bounds:291,55,54,57
+r lower arm
+bounds:443,167,58,78
+offsets:0,0,58,83
+r toe left
+bounds:409,2,43,29
+rotate:90
+r toe right
+bounds:513,55,50,28
+rotate:90
+r upper arm
+bounds:96,2,60,92
+rotate:90
+roundspark
+bounds:53,2,6,6
+shadow
+bounds:2,440,344,81
+offsets:1,1,345,82
